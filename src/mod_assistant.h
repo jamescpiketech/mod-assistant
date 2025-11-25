@@ -96,9 +96,9 @@ enum
 #define GOSSIP_CONTAINERS "I want containers"
 
 #define GOSSIP_UTILITIES "Character Utilities"
-#define GOSSIP_UTILITIES_NAME "Change Your Name - 200g"
-#define GOSSIP_UTILITIES_APPEARANCE "Change Your Appearance - 50g"
-#define GOSSIP_UTILITIES_RACE "Change Your Race - 100g"
+#define GOSSIP_UTILITIES_NAME "Change Your Name - 50g"
+#define GOSSIP_UTILITIES_APPEARANCE "Change Your Appearance - 100g"
+#define GOSSIP_UTILITIES_RACE "Change Your Race - 200g"
 #define GOSSIP_UTILITIES_FACTION "I want to change my faction"
 #define GOSSIP_UTILITIES_IN_PROGRESS "You must complete the previously activated feature before trying to perform another."
 #define GOSSIP_UTILITIES_DONE "You can now log out to continue using the activated feature."
